@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Groupon Email Settings
-Plugin URI: http://www.taskseveryday.com
+Plugin URI: #
 Description: Groupon email content editor
 Version: 1.0
 Author: Rahul kamble , Nishant Vaity , Dominic Fernandes
-Author URI: http://www.taskseveryday.com
+Author URI: #
 License: GPL2
 */
 
